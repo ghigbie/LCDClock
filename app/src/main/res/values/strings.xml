@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LCDClock</string>
+    <string name="ampm">Moo</string>
+    <string name="month">month</string>
+    <string name="response">Hey! That tickles!!!</string>
+    <string name="done">DONE</string>
+    <string name="hourSettings">24 Hour Clock</string>
+    <string name="day_week">Day of Week,</string>
+
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent2">#FF4081</color>
+    <color name="colorAccent">#1c80d7</color>
+    <color name="LCDBlue">#1c80d7</color>
+    <color name="LCDGrey">#cfcece</color>
+    <color name="textBlack">#212121</color>
+    <!--colors for LCDdisplay-->
+    <color name="arrayGreen">#07F53E</color>
+    <color name="arrayRed">#FE0000</color>
+    <color name="arrayBlue">#436EF3</color>
+    <color name="arrayDKGreen">#359B5D</color>
+    <!--colors for the Background-->
+    <color name="LCDBackground">#dad9d9</color>
+    <color name="LCDBackgroundDark">#2e2e2e</color>
+
+</resources>
